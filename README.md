@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Explanation Article
+
+Medium Link : https://javascript.plainenglish.io/simple-react-counter-app-for-beginners-using-usestate-and-useeffect-hooks-2dbcc9876003
+
 ## Available Scripts
 
 In the project directory, you can run:
